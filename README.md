@@ -4,7 +4,7 @@
 
 ## General info
 The application is deployed with [Heroku](https://www.heroku.com/). It can be viewed at: [Codestrips](https://codestripsss.herokuapp.com/)
-git 
+
 
 ## Technologies
 * HTML / CSS / JavaScript
@@ -23,8 +23,8 @@ git
 * All the saved strips will still be available if the server is restarted
 
 To-do list:
-* Option to clear database completely
-* Choice to pre-load example strips in new database
+* Option (new button) to clear database completely
+* Choice to either pre-load example strips in new database or use empty database (currently example strips come pre-loaded)
 * Delete a selected strip
 * Modify a selected strip
 
